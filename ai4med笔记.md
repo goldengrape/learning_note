@@ -3,6 +3,7 @@
 ##  AI For Medical Treatment
 
 ### [[ATE (Average Treatment Effect, 平均治疗效果)计算]]
+
 ATE=对照组中事件的发生率-治疗组事件的发生率
 
 ### [[CATE (Conditional Average Treatment Effect, 条件平均治疗效果)]]
