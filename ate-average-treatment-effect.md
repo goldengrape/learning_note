@@ -1,4 +1,6 @@
-# ATE (Average Treatment Effect, 平均治疗效果)计算
+# ATE Average Treatment Effect
+
+平均治疗效果
 
 使用: Neyman-Rubin causal model
 
