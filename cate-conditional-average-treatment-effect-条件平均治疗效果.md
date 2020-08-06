@@ -49,5 +49,3 @@ $$ -->
 <div align="center"><img src="https://render.githubusercontent.com/render/math?math=%5Chat%20%5Cmu%20(x%2C1)-%5Chat%20%5Cmu%20(x%2C0)"></div>
 
 参考
-
-[[ATE (Average Treatment Effect, 平均治疗效果)计算]]
