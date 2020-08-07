@@ -1,10 +1,18 @@
 # AI4Med笔记
 
+* 可以找到的作业代码: [https://github.com/anmspro/AI-for-Medicine-Specialization](https://github.com/anmspro/AI-for-Medicine-Specialization)
+
 ## AI for Medical Diagnosis
+
+* 视频: [https://www.bilibili.com/video/BV1JT4y1g74P](https://www.bilibili.com/video/BV1JT4y1g74P)
 
 ## AI for Medical Prognosis
 
+* 视频: [https://www.bilibili.com/video/BV1xK411p7r1](https://www.bilibili.com/video/BV1xK411p7r1)
+
 ##  AI For Medical Treatment
+
+* 视频: [https://www.bilibili.com/video/BV1wf4y1m7JU](https://www.bilibili.com/video/BV1wf4y1m7JU)
 
 ### 因果推断
 
