@@ -48,7 +48,17 @@ $$ -->
 
 <div align="center"><img src="https://render.githubusercontent.com/render/math?math=%5Chat%20%5Cmu%20(x%2C1)-%5Chat%20%5Cmu%20(x%2C0)"></div>
 
-参考
+## ITE
+
+个人治疗效果ITE. 就是把条件X=某个个人的x_i
+
+## Observed Benefit
+
+找到相似ITE数值的两个人, 或者相似条件的两个人, 但给药状态相反, 
+
+计算Y(1)-Y(0)
+
+## 参考
 
 - [[ATE Average Treatment Effect]] 平均治疗效果
 
